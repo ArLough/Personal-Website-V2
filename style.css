@@ -1,10 +1,10 @@
 html{
   margin: 16px;
-  
+  background: #DBE8F9;
 
 }
 
-img{
+.profile_img{
   height: 100px;
   border-radius: 16px;
 }
@@ -12,7 +12,7 @@ img{
 body{
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   text-align: center;
-  border: 12px solid cadetblue;
+  border: 12px solid #466289;
   padding: 10px;
   max-width: 50em;
   margin: auto;
