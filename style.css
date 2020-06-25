@@ -15,30 +15,35 @@ html{
   
 }
 
-.nav{
-  background-color: #466289; 
-  overflow: hidden;
+body{
+  margin:0;
+}
+
+/*.nav{
+ background-color: #466289; 
+ overflow: hidden;
   margin-bottom:30px;
   margin-top:0px;
   margin-left:0px;
   margin-right:0px;
   
-}
+}*/
 
-.nav ul{
+nav ul{
   list-style-type: none;
   margin: 0px;
+  margin-bottom:40px;
   padding: 0px;
   overflow: hidden;
   background-color: #466289;
 }
 
-.nav li{
+nav li{
   
   float: left;
 }
 
-.nav a{
+nav a{
   display: block;
   color: white;
   text-align: center;
@@ -47,8 +52,8 @@ html{
 
 }
 
-.topnav a:hover {
-  background-color: #111;
+nav a:hover {
+  background-color:#627894;
 }
 
 
