@@ -15,6 +15,10 @@ body{
   
 }
 
+.clickable{
+  color:  #FA6121;
+}
+
 .intro{
   
   border: 12px solid #466289;
@@ -29,3 +33,18 @@ body{
 h1, h2 {
   color: #333;
 }
+
+
+
+/*
+Colors:
+https://www.colorcombos.com/color-schemes/138/ColorCombo138.html
+
+Hex: #627894
+Hex: #A0AEC1
+Hex: #466289
+Hex: #DBE8F9
+Hex: #FA6121
+Hex: #FFB739
+
+*/
