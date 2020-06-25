@@ -1,7 +1,12 @@
 html{
-  margin: 16px;
+  
   background: #DBE8F9;
 
+}
+
+.wrapper{
+  margin: 16px;
+ 
 }
 
 .profile_img{
@@ -16,13 +21,15 @@ html{
   overflow: hidden;
   margin-bottom:30px;
   margin-top:0px;
+  margin-left:0px;
+  margin-right:0px;
   
 }
 
 .nav ul{
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   overflow: hidden;
   background-color: #466289;
 }
