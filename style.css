@@ -19,6 +19,10 @@ body{
   color:  #FA6121;
 }
 
+.clickable:hover{
+  color: #FFB739;
+}
+
 .intro{
   
   border: 12px solid #466289;
