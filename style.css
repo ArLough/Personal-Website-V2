@@ -100,7 +100,7 @@ h1, h2 , h3{
 h3 span{
   position: relative;
   display:inline-block;
-  animation: animate 1.5s linear;
+  animation: animate 1.60s linear;
 }
 @keyframes animate
 {
@@ -110,7 +110,7 @@ h3 span{
   }
   10%
   {
-    transform: translateY(-30px);
+    transform: translateY(-15px);
   }
   15%
   {
