@@ -66,6 +66,7 @@ nav a:hover {
 
 nav a:active {
   background-color:#8C001A;
+  box-shadow: inset 0px 0px 5px #234234;
 }
 
 
