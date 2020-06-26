@@ -63,7 +63,7 @@ nav a:hover {
 }
 
 nav a:active {
-  background-color:#FA6121;
+  background-color:#8C001A;
 }
 
 
@@ -75,11 +75,12 @@ body{
 }
 
 .clickable{
-  color:  #FA6121;
+  color:#8C001A;
+  /* #FA6121;*/
 }
 
 .clickable:hover{
-  color: #FFB739;
+  color: #C47D8A;
 }
 
 .intro{
