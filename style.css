@@ -125,19 +125,12 @@ h3 span{
   {
     transform: translateY(0px);
   }
+  
   30%
-  {
-    transform: translateY(0px);
-  }
-  35%
-  {
-    transform: translateY(0px);
-  }
-  40%
   {
     transform: translateY(-10px);
   }
-  45%
+  35%
   {
     transform: translateY(0px);
   }
