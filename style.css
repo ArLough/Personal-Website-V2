@@ -16,7 +16,9 @@ html{
 .profile_img{
   height: 100px;
   border-radius: 16px;
-  
+  border-color: #DBE8F9;
+  border-width: 3px;
+  border-style: solid;
   
 }
 
@@ -75,27 +77,31 @@ body{
 }
 
 .clickable{
-  color:#8C001A;
+  color: #DBE8F9;;
   /* #FA6121;*/
 }
 
 .clickable:hover{
-  color: #C47D8A;
+  color: #A0AEC1;
+}
+
+.clickable:active{
+  color: #8C001A;
 }
 
 .intro{
-  
+  background-color: #466289;
   border: 12px solid #466289;
   padding: 10px;
   max-width: 50em;
   margin: auto;
   Box-shadow: 3px 3px 3px #234234;
-
-
 }
 
+
+
 h1, h2 , h3{
-  color: #333;
+  color: #DBE8F9;;
 }
 
 h3 span{
