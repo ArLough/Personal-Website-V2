@@ -51,6 +51,10 @@ nav li{
   float: left;
 }
 
+.leftnav{
+  float: right;
+}
+
 nav a{
   display: block;
   color: white;
