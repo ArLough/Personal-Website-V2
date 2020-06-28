@@ -24,6 +24,13 @@ h4{
   font-size: 1.17em;;
 }
 
+.divider {
+  
+  border-top: 3px solid #466289;
+  border-radius: 5px;
+  margin-bottom: 2.5vh;
+}
+
 .wrapper{
   margin: 16px;
 }
@@ -35,6 +42,15 @@ h4{
   border-width: 3px;
   border-style: solid;
   
+}
+
+.card-img{
+  height: 40%;
+  width: 100%;
+
+  border-radius: 16px;
+  
+
 }
 
 body{
@@ -141,7 +157,7 @@ body{
 .about h2{
   color: #466289;
   text-align: left;
-  
+  margin-bottom: 0;
   
 }
 
