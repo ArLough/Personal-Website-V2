@@ -25,9 +25,26 @@ h4{
   font-weight: lighter;
 }
 
+h5{
+  font-size: 0.83em;
+  font-weight: lighter;
+}
+
 footer{
-  margin-top: 5vh;
+  margin-top: 10vh;
+  padding-top: 4vh;
+  padding-bottom: 1vh;
   background-color: #466289;
+}
+
+footer a{
+  color: white;
+  font-weight: lighter;
+  text-decoration: underline;
+}
+
+footer h5{
+  color: white;
 }
 
 .divider {
