@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<!-- ^ where we link our CSS file to our webpage -->
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <!-- ^ the viewport meta tag is to make your webpage responsive according to screen size -->
+  <title>Aidan Loughney</title>
+  <!-- ^ your webpage's title -->
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- ^ where we link our CSS file to our webpage -->
+</head>
+
+
+
+
+
+<body style="height: 100vh;">
+  <nav>
+
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li class="leftnav"><a href="assets/Resume.pdf">Resume-PDF</a></li>
+    </ul>
+
+
+  </nav>
+
+  <div class="card" >
+    <form name="contact" method="POST" data-netlify="true">
+      <h2 style="padding-bottom: 10px;">
+        Contact me!
+      </h2>
+      <p>
+        <label>Your Name: <input type="text" name="name" /></label>
+      </p>
+      <p>
+        <label>Your Email: <input type="email" name="email" /></label>
+      </p>
+
+      <p>
+        <label>Message: <textarea style="width: 350px;
+          height: 150px;
+          margin: auto;
+          position: relative;" name="message"></textarea></label>
+      </p>
+      <p>
+        <button type="submit">Send</button>
+      </p>
+    </form>
+
+
+
+
+
+
+    <script src="script.js"></script>
+    <!-- ^ where we link our JS file to our webpage (we don't need to worry about this for now!) -->
+  </div>
+
+  
+
+
+</body>
+
+<footer style="position: absolute; bottom:0; width:100%">
+  <a href="https://github.com/ArLough/Personal-Website-V2">made by Aidan Loughney</a>
+
+  <h5>© 2020 Aidan R. Loughney</h3>
+</footer>
+
+</html>
